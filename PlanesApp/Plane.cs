@@ -10,22 +10,22 @@ namespace PlanesApp
     {
         public virtual void Display()
         {
-            Console.WriteLine("I am a plane");
+
         }
 
         public virtual void StartEngine()
         {
-            Console.WriteLine("Engine Started!");
+            
         }
 
         public virtual void Fly()
         {
-            Console.WriteLine("Flying");
+            
         }
 
         public virtual void Land()
         {
-            Console.WriteLine("Landing");
+            
         }
     }
 }
